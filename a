@@ -1,0 +1,10 @@
+git clone https://github.com/osindy/NEIU335AI.git
+cd NEIU335AI/assignments/assignment-01-api
+
+
+# Windows (Command Prompt)
+python -m venv venv
+venv\Scripts\activate
+
+pip install -r requirements.txt
+
